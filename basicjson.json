@@ -1,0 +1,30 @@
+[
+    
+    {"frontCard":"In what month is the earth closest to the sun?",
+    "backCard": "january",
+    "fullAnswer": "January is the month the earth is closest to the sun."
+    },
+    
+    {"frontCard": "What is the most abundant element in the earth's atmosphere?",
+      "backCard": "nitrogen",
+      "fullAnswer": "Nitrogen is the most abundant element in the earth's atmosphere."
+    },
+    
+    {"frontCard":"by area, what is the smallest ocean in the world?",
+      "backCard": "arctic",
+      "fullAnswer": "the arctic is the smallest ocean in the world."
+    },
+    
+    {"frontCard":"What is the smallest continent?",
+      "backCard":"australia",
+      "fullAnswer": "Australia is the world's smallest continent."
+    
+    },
+    
+    {
+      "frontCard":"Where is glacier bay national park?",
+      "backCard": "alaska",
+      "fullAnswer": "Glacier bay national park is in alaska."
+    }
+    
+    ]
